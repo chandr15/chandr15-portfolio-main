@@ -1,0 +1,26 @@
+{
+    "experiences": [
+        {
+            "title": "Cloud Developer Intern",
+            "subtitle": "Polestar Solutions & Services India",
+            "workType": "Internship",
+            "workDescription": [
+                "Developed cloud databases using AWS and PHP which increased system performance by 50-70%",
+                "Implemented efficient cloud-based database solutions ",
+                "Participated actively in coding and debugging processes"
+            ],
+            "dateText": "02/2021 – 03/2021"
+        },
+        {
+            "title": "Application Developer Intern",
+            "subtitle": "Sharda University",
+            "workType": "Internship",
+            "workDescription": [
+                "Designed an intuitive UI for enhanced book searches and purchases",
+                "Spearheaded E2E development of an online bookstore app using Java, XML, Android Studio, and Google Firebase",
+                "Integrated secure payment gateways and collaborated within a diverse team to cultivate teamwork skills and Firebase services"
+            ],
+            "dateText": "05/2019 – 06/2019"
+        }
+    ]
+}
