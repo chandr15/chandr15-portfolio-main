@@ -1,26 +1,40 @@
 {
     "experiences": [
         {
-            "title": "Cloud Developer Intern",
-            "subtitle": "Polestar Solutions & Services India",
+            "title": "Web Developer Intern",
+            "subtitle": "GAOTek Inc., Ontario, Canada",
             "workType": "Internship",
             "workDescription": [
-                "Developed cloud databases using AWS and PHP which increased system performance by 50-70%",
-                "Implemented efficient cloud-based database solutions ",
-                "Participated actively in coding and debugging processes"
+                "Tech Stack: HTML, CSS, PHP, JavaScript, AJAX, Wordpress, SQL, Git, JIRA, PayPal",
+                "Collaborated on full-stack development for an e-commerce website with a cross-functional team",
+                "Led the design of a dynamic e-commerce platform, selecting technologies strategically to meet client requirements",
+                "Developed custom JavaScript functions for efficient product search, wishlist, shopping cart, and one-click ordering"
             ],
-            "dateText": "02/2021 – 03/2021"
+            "dateText": "01/2024 – Present"
         },
         {
-            "title": "Application Developer Intern",
+            "title": "Cloud Developer Intern",
+            "subtitle": "Polestar Solutions & Services India Pvt. Ltd",
+            "workType": "Internship",
+            "workDescription": [
+                "Tech Stack: AWS, PHP, Git, JIRA",
+                "Collaborated with a diverse team to improve system performance by 50-70%",
+                "Played a key role in a 10-member team, actively involved in technical discussions, brainstorming, and practical coding for cloud databases",
+                "Identified and fixed over 100 software bugs, enhancing system performance and functionality"
+            ],
+            "dateText": "02/2021 – 06/2021"
+        },
+        {
+            "title": "Mobile Application Developer Intern (Android)",
             "subtitle": "Sharda University",
             "workType": "Internship",
             "workDescription": [
-                "Designed an intuitive UI for enhanced book searches and purchases",
-                "Spearheaded E2E development of an online bookstore app using Java, XML, Android Studio, and Google Firebase",
-                "Integrated secure payment gateways and collaborated within a diverse team to cultivate teamwork skills and Firebase services"
+                "Tech Stack: Java, XML, Firebase, Android Studio, Git, JIRA, Stripe",
+                "Led a diverse team in the end-to-end development of an intuitive online bookstore app",
+                "Elevated user engagement by integrating various features like enhanced book searches, personalized recommendations,etc., while ensuring secure online transactions through integrated payment gateways",
+                "Facilitated completion of project from concept to launch within 2 months"
             ],
-            "dateText": "05/2019 – 06/2019"
+            "dateText": "05/2019 – 07/2019"
         }
     ]
 }

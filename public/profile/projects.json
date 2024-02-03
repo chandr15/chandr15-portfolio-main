@@ -1,9 +1,22 @@
 {
   "projects": [
     {
+      "image": "images/projects/stock.jpg",
+      "title": "Crypto Trading Web App",
+      "bodyText": "- Developed a full-stack Django-based web application, focusing on the homepage, payment gateway, and currency exchange feature with real-time rates from CoinMarket API\n -  Contributed significantly to testing key functionalities, including user authentication, login, and signup\n - Visualized GitHub data to show collaboration",
+      "links": [
+        {
+          "text": "GitHub",
+          "href": "https://github.com/chandr15/DIGIX"
+        } 
+      ],
+      "tags": ["Python", "Django", "PyCharm", "Firebase", "GitHub", "JIRA", "Stripe", "Bootstrap", "SQLite"]
+      
+    },
+    {
       "image": "images/projects/port.png",
       "title": "My Portfolio",
-      "bodyText": "- Developed a Portfolio Website in ReactJS\n -  Fully dynamic and supports various screen sizes\n - Dark Mode Support is also present",
+      "bodyText": "- Developed a Portfolio Website to provide a comprehensive overview for potential employers, clients, or collaborators\n -  Fully dynamic and supports various screen sizes\n - Dark Mode Support is also present",
       "links": [
         {
           "text": "GitHub",
@@ -11,26 +24,26 @@
         },
         {
           "text": "Live",
-          "href": ""
+          "href": "https://my-portfolio-chandr15.vercel.app"
         }
       ],
-      "tags": ["React", "Portfolio", "JavaScript", "CSS"]
+      "tags": ["ReactJS", "Portfolio", "JavaScript", "CSS", "NodeJS"]
     },
     {
       "image": "images/projects/speech.png",
       "title": "SpeechEase",
-      "bodyText": "- Developed an Android app with text-to-speech messaging, emoji-to-speech, multilingual support (English/French), and contextual templates for easy daily communication has empowered mute people.\n - Collaborated on 3 app features, driving a cost-effective Java-based Android app. As part of an 8-member team, I contributed significantly as a developer\n - Simulated hardware functions to visualize 2 key features, enhancing cost-efficiency by 70%",
+      "bodyText": "- Developed an Android app with text-to-speech messaging, emoji-to-speech, multilingual support (English/French), and contextual templates for easy daily communication has empowered mute people.\n - Collaborated on 3 app features, driving a cost-effective Java-based Android app. As part of an 8-member team, I contributed significantly as a developer\n - Earned recognition as a top-performing team during Computer Science demo day at University of Windsor for its innovative impact",
       "links": [
         {
           "text": "GitHub",
           "href": "https://github.com/chandr15/SpeechEase"
         }
       ],
-      "tags": ["Java", "Kotlin", "XML", "Google Firebase", "Android Studio"]
+      "tags": ["Java", "Kotlin", "XML", "Google Firebase", "Android Studio", "Google API"]
     },
     {
       "image": "images/projects/smart.png",
-      "title": "Smart Waste Management System",
+      "title": "IoT-Enabled Waste Management",
       "bodyText": "- Headed a 5-member team, driving the end-to-end creation of a Smart Waste Management System\n - Contributed to both hardware and software aspects by orchestrating a functional robotic model and actively shaping the project's website.\n - Designed and executed innovative features like automated waste segregation and real-time waste truck tracking, resulting in a noteworthy 2nd prize achievement in a competitive Hackathon.",
       "links": [
         {
@@ -38,7 +51,7 @@
           "href": "https://github.com/chandr15/SmartWasteManagementSystem"
         }
       ],
-      "tags": ["Arduino", "IoT", "MERN Stack", "Blynk App"]
+      "tags": ["Arduino", "IoT", "MERN Stack", "Blynk App", "ReactJS", "NodeJS"]
     },
     {
       "image": "images/projects/stress.png",
@@ -50,7 +63,7 @@
           "href": "https://github.com/chandr15/calmify-music-app"
         }
       ],
-      "tags": ["Flutter", "Android Studio", "Google Firebase", "Dart"]
+      "tags": ["Flutter", "Android Studio", "Google Firebase", "Dart", "Google API"]
     }
   ]
 }
