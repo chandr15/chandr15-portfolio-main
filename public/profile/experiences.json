@@ -1,36 +1,35 @@
 {
     "experiences": [
         {
-            "title": "Web Developer Intern",
+            "title": "Web Developer",
             "subtitle": "GAOTek Inc., Ontario, Canada",
-            "workType": "Internship",
+            "workType": "Contract - Full time",
             "workDescription": [
-                "Tech Stack: HTML, CSS, PHP, JavaScript, AJAX, Wordpress, SQL, Git, JIRA, PayPal",
+                "Tech Stack: HTML5, CSS3, JavaScript, WooCommerce, PHP, SQL Server, jQuery, WordPress",
                 "Collaborated on full-stack development for an e-commerce website with a cross-functional team",
                 "Led the design of a dynamic e-commerce platform, selecting technologies strategically to meet client requirements",
                 "Developed custom JavaScript functions for efficient product search, wishlist, shopping cart, and one-click ordering"
             ],
-            "dateText": "01/2024 – Present"
+            "dateText": "01/2023 – 06/2024"
         },
         {
-            "title": "Cloud Developer Intern",
+            "title": "Software Developer",
             "subtitle": "Polestar Solutions & Services India Pvt. Ltd",
-            "workType": "Internship",
+            "workType": "Full time",
             "workDescription": [
-                "Tech Stack: AWS, PHP, Git, JIRA",
-                "Collaborated with a diverse team to improve system performance by 50-70%",
-                "Played a key role in a 10-member team, actively involved in technical discussions, brainstorming, and practical coding for cloud databases",
-                "Identified and fixed over 100 software bugs, enhancing system performance and functionality"
+                "Tech Stack: AWS, PHP, Jenkins, Docker",
+                "Improved system performance and functionality by identifying and resolving over 100 critical bugs using AWS and PHP, and streamlined deployment processes by automating pipelines with Jenkins and Docker, reducing manual intervention.",
+                "Designed and developed efficient RESTful APIs, boosting data retrieval speeds by 25%, while managing project progress and version control with JIRA and Git to ensure timely delivery of high-quality software solutions"
             ],
-            "dateText": "02/2021 – 06/2021"
+            "dateText": "02/2021 – 10/2022"
         },
         {
-            "title": "Mobile Application Developer Intern (Android)",
+            "title": "Web Developer",
             "subtitle": "Sharda University",
             "workType": "Internship",
             "workDescription": [
-                "Tech Stack: Java, XML, Firebase, Android Studio, Git, JIRA, Stripe",
-                "Led a diverse team in the end-to-end development of an intuitive online bookstore app",
+                "Tech Stack: Java, ReactJS, HTML5, CSS3, PHP, Laravel, XML, Android Studio, Firebase",
+                "Led the development of an online bookstore app (mobile application and website) with features like enhanced book searches and secure transactions via Stripe, boosting user engagement",
                 "Elevated user engagement by integrating various features like enhanced book searches, personalized recommendations,etc., while ensuring secure online transactions through integrated payment gateways",
                 "Facilitated completion of project from concept to launch within 2 months"
             ],
